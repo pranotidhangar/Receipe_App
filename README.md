@@ -3,7 +3,14 @@ Recipe App
 Overview
 The Recipe App is a web application built with Django that allows users to browse, search, and manage various recipes. Users can add new recipes, edit existing ones, and categorize them based on different cuisines or meal types.
 
+I) Main Page
 ![Receipe](https://github.com/user-attachments/assets/80496a78-23b3-4836-90d6-6e23f8190a9c)
+
+II) Registration Page
+![Register](https://github.com/user-attachments/assets/5efd0bb0-d63e-48c8-8381-4231daeb8f93)
+
+III) Login Page
+![Log-in](https://github.com/user-attachments/assets/f3c40105-9f2a-4e60-9ae9-de57db1ba0c8)
 
 
  Features
